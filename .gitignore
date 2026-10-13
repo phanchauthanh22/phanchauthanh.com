@@ -1,0 +1,6 @@
+# Private planning notes (kept local, never pushed)
+ARCHITECTURE_DECISIONS.md
+_private/
+
+# OS
+.DS_Store
